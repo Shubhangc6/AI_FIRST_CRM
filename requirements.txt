@@ -1,0 +1,8 @@
+streamlit
+langgraph
+langchain
+langchain-openai
+python-dotenv
+sqlalchemy
+pandas
+mysql-connector-python
